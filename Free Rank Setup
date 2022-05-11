@@ -1,0 +1,49 @@
+#JUST INCASE IF NEEDED I GIVE YOU GUYS A FREE RANKS PLUGIN WHERE YOU GUYS CAN SETUP THE PERMISSIONS AND DETAILS URSELF ENJOY!#
+Moderator:
+  permissions: []
+  inheritances: []
+  weight: 0
+  namecolor: ''
+  buyDescription: ''
+  buyCommand: ''
+  buyableRanks: []
+  chatcolor: ''
+  buyCost: 0.0
+  suffix: ''
+  prefix: '#9d1dffM#a51eefO#ae1fdfD#b720d0E#bf21c0R#c822b0A#d123a1T#d92491O#e22581R'
+Owner:
+  permissions: []
+  inheritances: []
+  weight: 0
+  namecolor: ''
+  buyDescription: ''
+  buyCommand: ''
+  buyableRanks: []
+  chatcolor: ''
+  buyCost: 0.0
+  suffix: ''
+  prefix: '#ff00ffO#cc33ffW#9966ffN#6699ffE#33ccffR'
+Admin:
+  permissions: []
+  inheritances: []
+  weight: 0
+  namecolor: ''
+  buyDescription: ''
+  buyCommand: ''
+  buyableRanks: []
+  chatcolor: ''
+  buyCost: 0.0
+  suffix: ''
+  prefix: '#ffff00A#fbcc00D#f79900M#f36600I#ef3300N'
+Member:
+  permissions: []
+  inheritances: []
+  weight: 100
+  namecolor: ''
+  buyDescription: ''
+  buyCommand: ''
+  buyableRanks: []
+  chatcolor: ''
+  buyCost: 0.0
+  suffix: ''
+  prefix: '#127e00M#1a8704E#239109M#2c9b0eB#35a513E#3eaf18R'
